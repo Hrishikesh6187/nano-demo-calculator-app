@@ -3,7 +3,7 @@ const app = express();
 
 const PORT = process.env.PORT || 8080;
 
-const baseUrl = '/calculator'
+const baseUrl = '/calculato'
 
 app.use(express.json());
 
